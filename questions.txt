@@ -1,0 +1,5 @@
+You are given an array consisting of numbers laid out in a particular pattern:
+1. Any numbers that are the same will appear in a group consecutively.
+2. The value of the numbers does not matter.
+3. The groups of numbers can be of any size.
+Your task is to sort the array so that the groups of numbers appear in decreasing LENGTH order. For example, the array 55555200000088 will become 00000055555882. You may only use standard array functions from C-type languages (C++, Java, etc.), and of course, loops, conditionals, variables, mathematical operators and so on.
